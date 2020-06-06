@@ -710,5 +710,6 @@ ul {
    }
    .footer {
       padding-top: 25px;
+      overflow: hidden;
    }
 }
